@@ -51,7 +51,7 @@ git clone https://github.com/jassbari/Eldercare-Management-System.git
 ### Backend
 
 ```bash
-cd Eldercare_project/backend
+cd nursing_project/backend
 npm install
 npm start
 ```
